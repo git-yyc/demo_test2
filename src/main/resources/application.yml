@@ -1,0 +1,6 @@
+server:
+  port: 1001
+
+mybatis:
+  mapper-locations: classpath:com.mapper/*.xml
+  type-aliases-package: com.entity
